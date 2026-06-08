@@ -6,7 +6,7 @@ While the first version relied on a massive Raspberry Pi Pico and served as my p
 
 ## Images
 
-![PCB Top View](image-1.png)
+![PCB Top View](image.png)
 
 ## ⚙️ Hardware & Features
 
