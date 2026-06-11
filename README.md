@@ -4,7 +4,7 @@ This project is a brand-new, expanded rendition of my original 3-key macropad.
 
 ## Images
 
-![PCB Top View](image.png)
+![PCB Top View](image-1.png)
 
 ## ⚙️ Hardware & Features
 
